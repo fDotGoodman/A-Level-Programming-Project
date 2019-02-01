@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+div#container {
+	width:936px;
+	margin:auto;
+}
+
+main {
+}
+div.rssData {
+	width:300px;
+	margin:0 10px 0 0;
+	border:1px solid #333333;
+	text-align:left;
+	min-height:800px;
+	overflow:hidden;
+	float:left;
+}
+
+div#colourPicker {
+	width:924px;
+	margin:10px 10px 0 0;
+	border:1px solid #333333;
+	text-align:left;
+	min-height:800px;
+	overflow:hidden;
+	float:left;
+}
+
+div.feedInput {
+	width:300px;
+	margin:0 10px 0 0;
+	padding: 5px 0 0 0;
+	border:1px solid #333333;
+	text-align:left;
+	min-height:50px;
+	overflow:hidden;
+	float:left;
+}
+
+form.rssDisplayFeed {
+	margin: 0 0 0 5px;
+}
+
+header {
+	min-height:150px;
+	width: 924px;
+	margin: 0 0 10px 0;
+	padding:0;
+	border:1px solid #333333;
+	text-align:left;
+	overflow:hidden;
+}
+div.pageLinkButton {
+	width:75px;
+	height:138px;
+	border:1px solid #333333;
+	margin: 5px 5px 5px 5px;
+	float: left;
+	
+}
+div.pageLinkButton p {
+	margin: 0;
+	padding: 0;
+	text-align: centre;
+}
+
+	
+table {
+	width:700px;
+	margin:auto;
+}
+
+th {
+	background-color:orange; 
+}
+
+td {
+	width:200px; 
+}
+
+p#dennis {
+	color:red;
+	font-size:12px;
+}
